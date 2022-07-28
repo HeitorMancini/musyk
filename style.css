@@ -1,0 +1,90 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #212529; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #31373b; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #3b4247; 
+  }
+
+
+
+body{
+  background-color: #121212;
+  font-family:'Bebas Neue', cursive;
+  font-size: 25px;
+  padding-top: 85px;
+}
+
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+#logo {
+  margin-left: 150px;
+  height: 60px;
+  width: 60px;
+}
+
+#botao-menu {
+  margin-right: 150px;
+  height: 50px;
+}
+
+#itens-menu {
+  margin-left: 155px;
+}
+
+#corpo {
+  color: aliceblue;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+#navbar {
+  height: auto;
+  color: white;
+}
+
+#carrossel {
+  margin-left: 150px;
+  margin-right: 150px;
+  width: auto;
+}
+
+#rodape {
+  text-align: center;
+  color: aliceblue;
+}
+
+#meunome {
+  text-align: center;
+  color: aliceblue;
+}
+
+#footer {
+  background-color: #181818;
+}
+
+#github {
+  width: 35px;
+  height: 35px;
+}
