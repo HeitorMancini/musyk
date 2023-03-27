@@ -1,1 +1,1 @@
-https://HeitorMancini.github.io/adaptacao-IW1/inicio.html
+https://heitormancini.github.io/musyk/inicio.html
