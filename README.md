@@ -1,3 +1,3 @@
-Site realizado para atividade de Interface Web II - 2022
+Atividade realizada para exercício de utilização de imagens em diferentes formatos utilizando bootstrap e css simples. (ETEC - 2022)
 
 https://heitormancini.github.io/musyk/inicio.html
